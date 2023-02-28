@@ -1,8 +1,7 @@
 # Warning-System-
 
 The main objective of this project is to construct an early warning system for head-on collisions of trains
-by using redundant data communication facility between trains. There has been a tremendous rate of
-train accidents in Pakistan as nothing much has been done to improve the already present system. This
+by using redundant data communication facility between trains. The
 increasing rate of accidents motivated the need to invent a system beneficial with cost reduction facility.
 This system will play an essential role in our current railway system by facilitating the drivers to monitor
 their surrounding intuitively and flexibly. This research project measures the distance between trains
